@@ -1,0 +1,4 @@
+第一次独立尝试建立git repository
+在D盘中建立文件夹attempt
+从VS code中进行clone建立first attempt文件夹
+用Ctrl＋s保存
